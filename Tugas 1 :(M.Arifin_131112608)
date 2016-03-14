@@ -1,0 +1,41 @@
+Nim : 131112608
+Nama : M.Arifin
+Kelas : TP-A Pagi
+
+Argumen Tentang Artikel Yang Berjudul Computing Machinery And Intelligence Yang Ditulis Oleh Turing Pada Tahun 1950.
+
+a. Apa anda setuju atau tidak dengan pendapat Turing ?
+Saya setuju dengan pendapat Turing, karena mesin dibuat untuk mempercepat dan memudahkan pekerjaan manusia, seperti pada film the imitation game, pesan yang dikirim setiap hari dapat dipecahkan dalam waktu yang lebih efektif karena bantuan dari mesin christoper. Manusia memerlukan masih memerlukan jeda waktu yang lebih banyak untuk menatasi ataupun memahami suatu kasus, sedangkan mesin yang memiliki Artificial Intelligence hanya membutuhkan waktu yang cukup singkat untuk memecahkan sebuah kasus atau permasalahan, meskipun permasalahan hanyalah permasalahan terbatas.
+
+b. Apa menurut anda, ada komputer yang bisa melewati tes Turing suatu saat ?
+Menurut saya ada contohnya robot, robot dapat melewati tes turing dan mampu memanipulasi, meniru, ataupun mengelabuhi manusia sehingga manusia tersebut tidak mengetahui bahwa ia berkomunikasi dengan sebuah robot. Namun, secanggih apapun computer ataupun mesin itu dibuat pada dasarnya kembali pada ide dan kecerdasan manusia yang membuat mesin tersebut.
+
+c. Halangan Apa saja yang menurut anda menghambat perkembangan komputer untuk melewati tes turing ?
+Komputer ataupun mesin seperti robot tidak memiliki emosi dan perasaan seperti manusia. Meskipun sudah ada beberapa komputer yang dibuat memiliki emosi buatan, namun emosi tersebut masih sangat sederhana.
+
+Beberapa Istilah Pada Bidang AI Dan Beberapa Contoh Implementasinya.
+a. Natural Language Processing
+Natural Language Processing (NLP) adalah salah satu bidang ilmu komputer, kecerdasan buatan, dan bahasa (linguistik) yang berkaitan dengan interaksi antara komputer dan bahasa alami manusia, seperti bahasa Indonesia atau bahasa Inggris. Tujuan utama dari NLP adalah membuat mesin yang mampu mengerti dan memahami makna bahasa manusia lalu memberikan respon yang sesuai.
+Contoh Implementasi: Bidang Pariwisata, Dalam hal ini dipilih bahasa Inggris sebagai bahasa alami. Pembahasan dititik beratkan pada pemahaman bahasa alami Metode parsing yang dipakai adalah Noise Disposal Parser, dan penjabaran kalimat menggunakan pars by difference list. Input berupa kalimat dalam bahasa Inggris. Dari input kalimat tersebut, akan dicari struktur pertanyaan yang dimilikinya. Dengan struktur yang didapat, bila struktur dikenali oleh sistem, database dapat diakses. Outputnya berupa jawaban yang sesuai dengan pertanyaan yang dituliskan, atau pesan kesalahan bila pertanyaan atau kalimat yang dimasukkan tidak dikenali oleh sistem.
+
+b. Knowledge Representation
+Suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedur pemecahan permasalahan.
+• Fakta: Kejadian yang sebenarnya, fakta ini yang akan kita representasikan.
+• Representasi dari fakta: Bagaimana cara untuk memodelkan fakta. Dari representasi ini, kita akan dapat memanipulasinya.
+Contoh Implementasi: Silsilah keluarga ( Sistem Produksi )
+
+c. Automated Reasoning
+Ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran. Studi penalaran otomatis membantu menghasilkan program komputer yang memungkinkan komputer untuk alasan sepenuhnya, atau hampir sepenuhnya, secara otomatis. Meskipun penalaran otomatis dianggap sebagai sub-bidang kecerdasan buatan, juga memiliki hubungan dengan teori ilmu komputer, dan bahkan filsafat.
+Contoh implementasi: logika pemograman dan aljabar komputer deduktif.
+
+d. Machine Learning
+Jenis kecerdasan buatan ( AI ) yang menyediakan komputer dengan kemampuan untuk belajar tanpa eksplisit diprogram. Pembelajaran mesin berfokus pada pengembangan program komputer yang dapat mengajar diri sendiri untuk tumbuh dan berubah bila terkena data baru.
+Contoh implementasi: Facebook News Feed menggunakan mesin belajar untuk mempersonalisasi pakan masing-masing anggota. Jika anggota yang sering berhenti bergulir untuk membaca atau " like " posting teman tertentu, News Feed akan mulai menunjukkan lebih banyak kegiatan yang teman sebelumnya dalam feed.
+
+e. Computer Vision
+Bidang yang mencakup metode untuk memperoleh, pengolahan, analisis, dan memahami gambar dan secara umum data yang tinggi, dimensi dari dunia nyata untuk menghasilkan informasi numerik atau simbolik.
+Contoh implementasi: Konsep Rover dimars, contoh dari kendaraan darat tak berawak.
+
+f. Robotika
+Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algoritma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot. Pengertian cerdas di sini sangat relatif, karena tergantung dari sisi mana sesorang memandang.
+Contoh implementasi: Robot AIBO yang merupakan robot yang menirukan hewan yaitu anjing.
